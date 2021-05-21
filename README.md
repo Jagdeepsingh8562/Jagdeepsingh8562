@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdeepsingh8562&show_icons=true&locale=en&layout=compact" alt="jagdeepsingh8562" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagdeepsingh8562&show_icons=true&locale=en" alt="jagdeepsingh8562" /></p>
-<b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagdeepsingh8562" alt="WakaTime" />
