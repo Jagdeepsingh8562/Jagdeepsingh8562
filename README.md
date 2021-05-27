@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdeepsingh8562&label=Profile%20views&color=0e75b6&style=flat-square" alt="jagdeepsingh8562" /> </p>
 
-- 🔭 I’m currently working on [News app](https://github.com/Jagdeepsingh8562/TheNewsApp.git)
+- 🔭 I’m currently working on [GithubFollowers](https://github.com/Jagdeepsingh8562/GithubFollowers.git)
 
 - 🌱 I’m currently learning **Combine/Programmatic UI in iOS**
 
