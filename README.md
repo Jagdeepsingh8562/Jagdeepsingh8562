@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jagdeepsinghdev" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="jagdeepsinghdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jagdeep-singh-ios" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png"alt="jagdeep-singh-ios" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jagdeep-singh-ios" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png"alt="jagdeep-singh-ios" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
