@@ -3,20 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdeepsingh8562&label=Profile%20views&color=0e75b6&style=flat-square" alt="jagdeepsingh8562" /> </p>
 
-- 🔭 I’m currently working on [GithubFollowers](https://github.com/Jagdeepsingh8562/GithubFollowers.git)
+- 🔭 I’m currently working on [NewsNest](https://github.com/Jagdeepsingh8562/NewsNest.git)
 
-- 🌱 I’m currently learning **Combine/Programmatic UI in iOS**
+- 🌱 I’m currently learning **SwiftUI and Combine in iOS**
 
 - 💬 Ask me about **Swift, iOS, CoreData, RestAPIs,Flutter**
 
 - 📫 How to reach me **jagdeepsingh.19dev@gmail.com**
 
-- [📄 Resume](https://drive.google.com/file/d/1H4Vv508AbMfHbFxCeQenwADD8VuBUoUe/view?usp=sharing)
+- [📄 Resume](https://drive.google.com/file/d/14sWSAtD0LNfClRiMyhcgjDLLtyFKfClO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jagdeepsinghdev" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="jagdeepsinghdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jagdeep-singh-ios" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png"alt="jagdeep-singh-ios" height="40" width="40" /></a>
+  <a href="mailto:jagdeepsingh.19dev@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"alt="Mail Me" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
