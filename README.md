@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NewsNest](https://github.com/Jagdeepsingh8562/NewsNest.git)
 
-- 🌱 I’m currently learning **SwiftUI and Combine in iOS**
+- 🌱 I’m currently learning **SwiftUI and Firebase in iOS**
 
 - 💬 Ask me about **Swift, iOS, CoreData, RestAPIs,Flutter**
 
