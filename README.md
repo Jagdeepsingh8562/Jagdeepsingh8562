@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jagdeepsingh.19dev@gmail.com**
 
-- [📄 Resume](https://drive.google.com/file/d/13FZNRQY_C0FmppbVmwmQMe8XuVjnZYnX/view?usp=sharing)
+- [📄 Resume](https://drive.google.com/file/d/1Qzb931CcM-zPKf3_Bb0_mmGzl-opC9yE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
