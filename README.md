@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagdeep Singh</h1>
-<h3 align="center">A passionate iOS developer from India</h3>
+<h3 align="center">A passionate iOS | Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdeepsingh8562&label=Profile%20views&color=0e75b6&style=flat-square" alt="jagdeepsingh8562" /> </p>
 
