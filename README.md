@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [NewsNest](https://github.com/Jagdeepsingh8562/NewsNest.git)
 
-- 🌱 I’m currently learning **SwiftUI and Firebase in iOS**
+- 🌱 I’m currently learning **SwiftUI and WidgetKit in iOS**
 
-- 💬 Ask me about **Swift, iOS, CoreData, RestAPIs,Flutter**
+- 💬 Ask me about **Swift, Dart, iOS, Flutter, CoreData, RestAPIs**
 
 - 📫 How to reach me **jagdeepsingh.19dev@gmail.com**
 
