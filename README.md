@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdeepsingh8562&label=Profile%20views&color=0e75b6&style=flat-square" alt="jagdeepsingh8562" /> </p>
 
-- 🔭 I’m currently working on [NewsNest](https://github.com/Jagdeepsingh8562/NewsNest.git)
+- 🔭 I’m currently working on [ATS Checker](https://github.com/Jagdeepsingh8562/ats_checker_api.git)
 
-- 🌱 I’m currently learning **SwiftUI and WatchOS**
+- 🌱 I’m currently learning about **FastAPI, LLMs, RAG**
 
 - 💬 Ask me about **Swift, Dart, WatchOS, iOS, Flutter, CoreData, RestAPIs**
 
