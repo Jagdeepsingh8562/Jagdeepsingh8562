@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ATS Checker](https://github.com/Jagdeepsingh8562/ats_checker_api.git)
 
-- 🌱 I’m currently learning about **FastAPI, LLMs, RAG**
+- 🌱 I’m currently learning about **APIs Development, LLMs, GenAI, RAG**
 
 - 💬 Ask me about **Swift, Dart, WatchOS, iOS, Flutter, CoreData, RestAPIs**
 
